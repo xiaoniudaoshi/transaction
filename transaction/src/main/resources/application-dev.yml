@@ -1,0 +1,14 @@
+server:
+  port: 8089
+  servlet:
+    context-path: /transaction
+mybatis:
+  mapper-locations: classpath:mapping/*.xml
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://cdb-qxot6jk6.cd.tencentcdb.com:10065/transaction?useSSL=false
+    username: root
+    password: cr123456
+    type: com.alibaba.druid.pool.DruidDataSource
