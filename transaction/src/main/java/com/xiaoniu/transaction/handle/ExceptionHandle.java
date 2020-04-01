@@ -14,7 +14,7 @@ import java.util.Map;
 @ControllerAdvice
 public class ExceptionHandle {
 
-//    @ExceptionHandler(Exception.class)
+    @ExceptionHandler(Exception.class)
     @ResponseBody
     public Object handlerException(HttpServletRequest request, Exception ex) {
         Map<String, Object> responseData = new HashMap<>();

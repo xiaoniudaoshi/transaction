@@ -34,17 +34,17 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
         <!--生成对应表及类名-->
-<!--        <table tableName="user_info" domainObjectName="UserInfoDO" enableCountByExample="false"-->
-<!--                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
-<!--                selectByExampleQueryId="false"></table>-->
+        <!--        <table tableName="user_info" domainObjectName="UserInfoDO" enableCountByExample="false"-->
+        <!--                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+        <!--                selectByExampleQueryId="false"></table>-->
 
-       <!-- <table tableName="item_detail" domainObjectName="ItemDetailDO" enableCountByExample="false"
-                   enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-                   selectByExampleQueryId="false"></table>-->
-
-        <!--<table tableName="item_info" domainObjectName="ItemInfoDO" enableCountByExample="false"
+        <table tableName="item_detail" domainObjectName="ItemDetailDO" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false"></table>-->
+               selectByExampleQueryId="false"></table>
+
+<!--        <table tableName="item_info" domainObjectName="ItemInfoDO" enableCountByExample="false"-->
+<!--               enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+<!--               selectByExampleQueryId="false"></table>-->
 
 
     </context>

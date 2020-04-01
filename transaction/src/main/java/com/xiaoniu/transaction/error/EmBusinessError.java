@@ -4,11 +4,10 @@ public enum EmBusinessError implements CommonError {
     //通用错误类型10001
     PARAMETER_VALIDATION_ERROR(10001, "参数不合法"),
     UNKNOWN_ERROR(10002, "未知错误"),
-    FILE_IMPORT_FALSE(10003, "文件导入失败"),
 
-    //20000开头为用户信息相关错误定义
-    LOGIN_FAIL(20001,"登录失败")
-    ;
+    //20000开头为====相关错误定义
+    LOGIN_FAIL(20001, "登录失败"),
+    ITEM_NOT_EXIST(20002, "商品不存在");
 
     EmBusinessError(int errCode, String errMsg) {
         this.errCode = errCode;
