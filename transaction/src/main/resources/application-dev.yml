@@ -12,3 +12,35 @@ spring:
     username: root
     password: cr123456
     type: com.alibaba.druid.pool.DruidDataSource
+
+  mvc:
+    view:
+      prefix: /templates
+      suffix: .html
+    static-path-pattern: /**
+
+# ---微信扫描支付开始
+wx:
+  #开发者ID
+  appID: wxab8acb865bb1637e
+  #开发者密码
+  appSecret: 86ae4a77893342f7568947e243c84d9aa
+  #商户号
+  mchID: 11473623
+  #API密钥,key设置路径：微信商户平台(pay.weixin.qq.com)-->账户设置-->API安全-->密钥设置
+  key: 2ab9071b06b9f739b950ddb41db2690d
+  #统一下单-通知链接
+  unifiedorder:
+    notifyUrl: ${intranet.penetrateUrl}/wxPay/unifiedorderNotify
+  # ---微信扫描支付结束
+
+
+  #连接超时时间
+https:
+  connectionTimeout: 15000
+  #请求超时时间
+  readTimeout: 15000
+
+#内网穿透的链接
+intranet:
+  penetrateUrl: http://8bsg6f.natappfree.cc
