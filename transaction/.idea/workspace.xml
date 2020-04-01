@@ -3,7 +3,40 @@
   <component name="ChangeListManager">
     <list default="true" id="f3c79253-2a77-47e3-bc1b-04a01ececef2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dao/UserInfoDOMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dataObject/UserInfoDO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapping/UserInfoDOMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-generator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-generator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/TransactionApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/controller/ItemController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/controller/VO/ItemPageVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/controller/Valid/ItemValid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dao/ItemDetailDOMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dao/ItemInfoDOMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dao/UserInfoDOMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dao/UserPasswordDOMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dataObject/ItemDetailDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dataObject/ItemDetailDOWithBLOBs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dataObject/ItemInfoDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dataObject/UserInfoDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/dataObject/UserPasswordDO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/error/BusinessException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/error/CommonError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/error/EmBusinessError.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/handle/ExceptionHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/response/CommonReturnType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/service/ItemService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/service/impl/ItemServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoniu/transaction/service/model/ItemModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/transaction.iml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +46,89 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-generator.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="38" column="66" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="38" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/UserInfoDOMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="n#resultMap#0;n#mapper#0;n#!!top" />
+                <element signature="e#303#495#0" />
+                <element signature="n#sql#0;n#mapper#0;n#!!top" />
+                <element signature="e#813#1005#0" />
+                <element signature="n#select#0;n#mapper#0;n#!!top" />
+                <element signature="n#select#0;n#mapper#0;n#!!top" />
+                <element signature="e#1150#1342#0" />
+                <element signature="e#10#88#1" />
+                <element signature="n#delete#0;n#mapper#0;n#!!top" />
+                <element signature="e#1547#1739#0" />
+                <element signature="e#10#78#0" />
+                <element signature="n#insert#0;n#mapper#0;n#!!top" />
+                <element signature="e#1914#2106#0" />
+                <element signature="e#10#202#0" />
+                <element signature="e#77#202#0" />
+                <element signature="e#84#202#0" />
+                <element signature="n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="e#2414#2606#0" />
+                <element signature="n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#0;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#1;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#2;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#3;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#0;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#1;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#2;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#if#3;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+                <element signature="n#update#0;n#mapper#0;n#!!top" />
+                <element signature="e#3458#3650#0" />
+                <element signature="e#10#259#0" />
+                <element signature="n#set#0;n#update#0;n#mapper#0;n#!!top" />
+                <element signature="n#if#0;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+                <element signature="n#if#1;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+                <element signature="n#if#2;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+                <element signature="n#update#1;n#mapper#0;n#!!top" />
+                <element signature="e#4121#4313#0" />
+                <element signature="e#10#202#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dao/UserInfoDOMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dataObject/UserInfoDO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1110">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,8 +140,92 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-generator.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapping/UserInfoDOMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dao/UserInfoDOMapper.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
   <component name="ProjectId" id="1ZWrYCAFlfAI8RhvUCaq33zpUoa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="transaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapping" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -112,6 +312,7 @@
       <workItem from="1585025871119" duration="3629000" />
       <workItem from="1585467917079" duration="1764000" />
       <workItem from="1585470397448" duration="5648000" />
+      <workItem from="1585733071185" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="查询报错">
       <created>1584966443916</created>
@@ -123,6 +324,46 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="259000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32922733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -132,6 +373,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -156,5 +403,149 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="查询报错" />
     <option name="LAST_COMMIT_MESSAGE" value="查询报错" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dataObject/ItemDetailDOWithBLOBs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/ItemInfoDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#resultMap#0;n#mapper#0;n#!!top" />
+            <element signature="e#303#495#0" />
+            <element signature="n#sql#0;n#mapper#0;n#!!top" />
+            <element signature="e#1103#1295#0" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" />
+            <element signature="e#1482#1674#0" />
+            <element signature="e#10#88#1" />
+            <element signature="n#delete#0;n#mapper#0;n#!!top" />
+            <element signature="e#1879#2071#0" />
+            <element signature="e#10#78#0" />
+            <element signature="n#insert#0;n#mapper#0;n#!!top" />
+            <element signature="e#2246#2438#0" />
+            <element signature="e#10#378#0" />
+            <element signature="e#126#378#0" />
+            <element signature="e#133#378#0" />
+            <element signature="n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="e#2967#3159#0" />
+            <element signature="n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#0;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#1;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#2;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#3;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#4;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#5;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#6;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#7;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#0;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#1;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#2;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#3;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#4;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#5;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#6;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#7;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#update#0;n#mapper#0;n#!!top" />
+            <element signature="e#4609#4801#0" />
+            <element signature="e#10#513#0" />
+            <element signature="n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#0;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#1;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#2;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#3;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#4;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#5;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#6;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#update#1;n#mapper#0;n#!!top" />
+            <element signature="e#5656#5848#0" />
+            <element signature="e#10#392#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dao/ItemInfoDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="38" column="66" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="38" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapping/UserInfoDOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="n#resultMap#0;n#mapper#0;n#!!top" />
+            <element signature="e#303#495#0" />
+            <element signature="n#sql#0;n#mapper#0;n#!!top" />
+            <element signature="e#813#1005#0" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" />
+            <element signature="n#select#0;n#mapper#0;n#!!top" />
+            <element signature="e#1150#1342#0" />
+            <element signature="e#10#88#1" />
+            <element signature="n#delete#0;n#mapper#0;n#!!top" />
+            <element signature="e#1547#1739#0" />
+            <element signature="e#10#78#0" />
+            <element signature="n#insert#0;n#mapper#0;n#!!top" />
+            <element signature="e#1914#2106#0" />
+            <element signature="e#10#202#0" />
+            <element signature="e#77#202#0" />
+            <element signature="e#84#202#0" />
+            <element signature="n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="e#2414#2606#0" />
+            <element signature="n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#0;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#1;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#2;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#3;n#trim#0;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#0;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#1;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#2;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#if#3;n#trim#1;n#insert#1;n#mapper#0;n#!!top" />
+            <element signature="n#update#0;n#mapper#0;n#!!top" />
+            <element signature="e#3458#3650#0" />
+            <element signature="e#10#259#0" />
+            <element signature="n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#0;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#1;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#if#2;n#set#0;n#update#0;n#mapper#0;n#!!top" />
+            <element signature="n#update#1;n#mapper#0;n#!!top" />
+            <element signature="e#4121#4313#0" />
+            <element signature="e#10#202#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dao/UserInfoDOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaoniu/transaction/dataObject/UserInfoDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1110">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
